@@ -8,6 +8,8 @@
 
 也有其他方法ROOT, 参见百度贴吧. 图片载入出了问题, 以后修正. 
 
+最近将本地的MD 文件导出成了HTML, 恢复了部分图片, 因此将HTML 一并上传.
+
 ## 文件下载
 
 所有文件可从 链接: https://pan.baidu.com/s/1KTmXyjIgBHd0AY3X7YTpXw 提取码: 2333 下载到 (我不会使用 glf) , 该连接比本文多两个大文件.
@@ -42,17 +44,11 @@
 
 1. 在设置>关于平板电脑 连点5次版本号,启动开发者选项
 
-![img](file:///C:/Users/suhan/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
-
 2. 在开发者选项打开OEM 解锁和USB 调试.
-
-![img](file:///C:/Users/suhan/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
 
 3. 准备好需要的资料.
 
-![img](file:///C:/Users/suhan/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)
-
-A5CNB19 是大陆B19包, A5FMB19 是台版, Magisk-18.1.zip 是ROOT 的工具. 最后的两个recovery 也是同理. n1_twrp_rec.img 是twrp 的recovery. 下载你需要的东西,通常需要一个固件(B19), 对应的 recovery, 以及 twrp 的rec, Magisk-18.1.zip. 其中 Magisk 的安装包可以在XDA 下载到.
+A5CNB19 是大陆B19包, A5FMB19 是台版, Magisk-18.1.zip 是ROOT 的工具. 最后的两个recovery 也是同理. n1_twrp_rec.img 是twrp 的recovery. 下载你需要的东西,通常需要一个固件(B19), 对应的 recovery, 以及 twrp 的rec, Magisk-18.1.zip. 其中 最新的 magisk.zip 可以从[topjohnwu](<https://github.com/topjohnwu/Magisk/releases>) 处下载到, 建议使用最新的 magisk.
 
 4. 设置好ADB工具.
 
